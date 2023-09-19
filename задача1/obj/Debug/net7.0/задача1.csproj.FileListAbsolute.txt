@@ -1,0 +1,14 @@
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\bin\Debug\net7.0\задача1.exe
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\bin\Debug\net7.0\задача1.deps.json
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\bin\Debug\net7.0\задача1.runtimeconfig.json
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\bin\Debug\net7.0\задача1.dll
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\bin\Debug\net7.0\задача1.pdb
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.AssemblyInfoInputs.cache
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.AssemblyInfo.cs
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.csproj.CoreCompileInputs.cache
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.dll
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\refint\задача1.dll
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.pdb
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\задача1.genruntimeconfig.cache
+C:\Users\asdfr\Documents\GitHub\lesson9\задача1\obj\Debug\net7.0\ref\задача1.dll
